@@ -9,7 +9,9 @@ body{
 #header-nav {
   background-color: #264e36;
   border-radius: 0;
+  
   border-bottom: 2px solid black;
+
 }
 .navbar-brand{
  padding-top:25px;
